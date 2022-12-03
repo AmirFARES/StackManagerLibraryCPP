@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1570742002 source:e:\c++\s3\lespiles\lespiles.cpp
+	<iostream>
+
+1572427512 source:e:\c++\s3\gestion de pile\lespiles.cpp
+	<iostream>
+	"GestPile.h"
+
+1572427207 e:\c++\s3\gestion de pile\gestpile.h
+	<iostream>
+
